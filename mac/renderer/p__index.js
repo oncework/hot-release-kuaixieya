@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[18],{z38k:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),c=t.n(n),o=t("Ty5D");a["default"]=c.a.memo((()=>c.a.createElement(c.a.Fragment,null,c.a.createElement(o["c"],{to:"./article"}))))}}]);

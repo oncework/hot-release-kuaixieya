@@ -1,0 +1,184 @@
+{
+  "id": "2267353",
+  "name": "kuaixieya",
+  "font_family": "kuaixieya",
+  "css_prefix_text": "kxy",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17540918",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "edc2",
+      "unicode_decimal": 60866
+    },
+    {
+      "icon_id": "13886706",
+      "name": "一键同步",
+      "font_class": "publish",
+      "unicode": "e7bc",
+      "unicode_decimal": 59324
+    },
+    {
+      "icon_id": "7899455",
+      "name": "tips_settings",
+      "font_class": "settings",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "15521972",
+      "name": "PDF_File",
+      "font_class": "articleFile",
+      "unicode": "eb88",
+      "unicode_decimal": 60296
+    },
+    {
+      "icon_id": "10343173",
+      "name": "Files",
+      "font_class": "docs",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "11935687",
+      "name": "dashboard",
+      "font_class": "dashboard",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "14964160",
+      "name": "渠道风险灰色",
+      "font_class": "channel",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1205901",
+      "name": "file-lock",
+      "font_class": "file-lock",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "1205916",
+      "name": "file",
+      "font_class": "file",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "1205887",
+      "name": "file-add",
+      "font_class": "file-add",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "1205897",
+      "name": "file-edit",
+      "font_class": "file-edit",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1205909",
+      "name": "file-star",
+      "font_class": "file-star",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "3900065",
+      "name": "金钱",
+      "font_class": "jinqian-",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3900097",
+      "name": "幕布",
+      "font_class": "mubu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "3900163",
+      "name": "路径图",
+      "font_class": "lujingtu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "3900178",
+      "name": "靶子",
+      "font_class": "bazi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "3900183",
+      "name": "灯泡",
+      "font_class": "dengpao",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3900548",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3900643",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3900779",
+      "name": "设置",
+      "font_class": "chicun-",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "3900713",
+      "name": "文件夹",
+      "font_class": "foler-star",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "18917390",
+      "name": "文件夹",
+      "font_class": "foler",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "3814162",
+      "name": "升级",
+      "font_class": "upgrade",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "5183661",
+      "name": "正确",
+      "font_class": "icon-right",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "6999239",
+      "name": "错误",
+      "font_class": "icon-error",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    }
+  ]
+}

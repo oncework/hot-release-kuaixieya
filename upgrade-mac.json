@@ -1,7 +1,36 @@
 {
   "name": "kuaixieya",
-  "version": "1.0.18",
+  "version": "1.1.0",
   "manifest": [
+    {
+      "version": "1.1.0",
+      "file": [
+        "mac/main.bundle.js",
+        "mac/nodes/leveldown/leveldown.node",
+        "mac/package.json",
+        "mac/renderer/layouts__index.js",
+        "mac/renderer/p__article__articleItem.js",
+        "mac/renderer/p__article__index.js",
+        "mac/renderer/p__channel__index.js",
+        "mac/renderer/p__editor__KXY.chunk.css",
+        "mac/renderer/p__editor__KXY.js",
+        "mac/renderer/p__editor__KXYEntry.chunk.css",
+        "mac/renderer/p__editor__KXYEntry.js",
+        "mac/renderer/p__editor__index.chunk.css",
+        "mac/renderer/p__editor__index.js",
+        "mac/renderer/p__setting__picture__ImageHosting__AliOSS.js",
+        "mac/renderer/p__setting__picture__ImageHosting__GitHub.js",
+        "mac/renderer/p__setting__picture__ImageHosting__Gitee.js",
+        "mac/renderer/p__setting__picture__ImageHosting__QiniuOSS.js",
+        "mac/renderer/p__setting__picture__index.js",
+        "mac/renderer/vendors~layouts__index~p__article__articleItem~p__article__index~p__channel__index~p__editor__KXY~p_~478e6e76.js",
+        "mac/renderer/vendors~layouts__index~p__article__articleItem~p__article__index~p__channel__index~p__editor__KXY~p_~565196da.js",
+        "upgrade-mac.json"
+      ],
+      "detail": [
+        "🎨 添加保存发布后文章地址"
+      ]
+    },
     {
       "version": "1.0.18",
       "file": [

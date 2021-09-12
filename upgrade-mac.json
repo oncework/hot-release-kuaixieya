@@ -1,7 +1,22 @@
 {
   "name": "kuaixieya",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "manifest": [
+    {
+      "version": "1.2.2",
+      "file": [
+        "mac/main.bundle.js",
+        "mac/package.json",
+        "mac/renderer/p__article__index.js",
+        "mac/renderer/p__editor__KXY.js",
+        "mac/renderer/p__editor__KXYEntry.js",
+        "mac/renderer/p__editor__index.js",
+        "upgrade-mac.json"
+      ],
+      "detail": [
+        "🎨 - 优化图片转存问题;"
+      ]
+    },
     {
       "version": "1.2.1",
       "file": [

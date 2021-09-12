@@ -1,7 +1,18 @@
 {
   "name": "kuaixieya",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "manifest": [
+    {
+      "version": "1.2.3",
+      "file": [
+        "mac/package.json",
+        "mac/renderer/p__editor__index.js",
+        "upgrade-mac.json"
+      ],
+      "detail": [
+        "🎨 - 优化界面问题;"
+      ]
+    },
     {
       "version": "1.2.2",
       "file": [

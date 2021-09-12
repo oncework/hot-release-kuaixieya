@@ -1,7 +1,18 @@
 {
   "name": "kuaixieya",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "manifest": [
+    {
+      "version": "1.2.1",
+      "file": [
+        "mac/main.bundle.js",
+        "mac/package.json",
+        "upgrade-mac.json"
+      ],
+      "detail": [
+        "🎨 - 修复CSDN渠道问题; - 修复mac无法关掉问题;"
+      ]
+    },
     {
       "version": "1.2.0",
       "file": [

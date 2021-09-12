@@ -5,6 +5,8 @@
     {
       "version": "1.2.2",
       "file": [
+        "mac/renderer/loading/index.css",
+        "mac/renderer/loading/logo.png",
         "mac/main.bundle.js",
         "mac/package.json",
         "mac/renderer/p__article__index.js",

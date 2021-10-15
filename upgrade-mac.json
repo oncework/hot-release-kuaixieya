@@ -1,7 +1,26 @@
 {
   "name": "kuaixieya",
-  "version": "1.2.3",
+  "version": "1.2.7",
   "manifest": [
+    {
+      "version": "1.2.7",
+      "file": [
+        "mac/main.bundle.js",
+        "mac/nodes/leveldown/leveldown.node",
+        "mac/package.json",
+        "mac/renderer/layouts__index.js",
+        "mac/renderer/p__article__articleItem.js",
+        "mac/renderer/p__article__index.js",
+        "mac/renderer/p__channel__index.js",
+        "mac/renderer/p__editor__KXY.js",
+        "mac/renderer/p__editor__KXYEntry.js",
+        "mac/renderer/p__editor__index.js",
+        "upgrade-mac.json"
+      ],
+      "detail": [
+        "🎨 - 修复无法增加md;"
+      ]
+    },
     {
       "version": "1.2.3",
       "file": [
